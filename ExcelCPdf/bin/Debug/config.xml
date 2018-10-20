@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Config>
+  <Node Ver="1.0.0.0">
+    <pdfdir>F:\s\hz</pdfdir>
+    <exceldir>F:\s\aaaaaa.xlsx</exceldir>
+    <filenamecol>S</filenamecol>
+    <namecol>E</namecol>
+    <numcol>Y</numcol>
+    <batchcol>T</batchcol>
+    <idencol>AE</idencol>
+    <idenmsg>999999</idenmsg>
+    <notequcol>Z</notequcol>
+    <notfiltercol>V</notfiltercol>
+    <reasoncol>AA</reasoncol>
+    <modecol>B</modecol>
+    <m1col>C</m1col>
+    <m2col>D</m2col>
+    <m3col>E</m3col>
+    <m4col>F</m4col>
+  </Node>
+</Config>
